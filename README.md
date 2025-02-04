@@ -1,15 +1,6 @@
-<p align="center">
-<img src="frontend/public/listen-more.png" width="35%" />
-<br />
-</p>
-<p align="center">
-<a href="https://docs.listen-rs.com/"><img src="https://img.shields.io/badge/docs-API-blue.svg" /></a> &nbsp;
-<a href="https://github.com/piotrostr/listen"><img src="https://img.shields.io/github/stars/piotrostr/listen?style=social" /></a>
-<a href=""><img src="https://img.shields.io/badge/built_with-Rust-dca282.svg?logo=rust" /></a>
-</p>
 
 <p align="center">
-<code>listen</code> started sa Solana Swiss-Knife toolkit for algorithmic trading, its mission is to become the go-to framework for AI portfolio management agents
+<code>Ethereal</code> started a Solana toolkit for algorithmic trading, its mission is to become the go-to framework for AI portfolio management agents
 </p>
 
 ## Listen Architecture
