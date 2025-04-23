@@ -1,6 +1,6 @@
 
 <p align="center">
-<code>Ethereal</code> started a Solana toolkit for algorithmic trading, its mission is to become the go-to framework for AI portfolio management agents
+<code>Bolt</code> started a Solana toolkit for algorithmic trading, its mission is to become the go-to framework for AI portfolio management agents
 </p>
 
 ## Listen Architecture
